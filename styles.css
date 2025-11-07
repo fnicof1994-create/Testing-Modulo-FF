@@ -10,8 +10,8 @@ html { outline: 4px solid lime !important; }
   --line-height: 20px;         /* line-height */
 
   /* Colors */
-  --text: oklch(0.707 0.022 261.325);       /* color */
-  --accent: oklch(62.3% 0.214 259.815);     /* --color-blue-500 del ref */
+  --text: #eaeaf0;       /* color */
+  --accent: #eaeaf1     /* --color-blue-500 del ref */
 
   /* App palette (puedes ajustar si tu app es más oscura) */
   --bg: #0f1221;
