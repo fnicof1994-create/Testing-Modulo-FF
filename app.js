@@ -1,5 +1,7 @@
 // ===== app.js =====
 
+console.log("✅ app.js cargado");
+document.title = "✅ JS OK — " + document.title;
 const state = {
   role: "cliente",
   view: "embarques"
