@@ -1,6 +1,7 @@
 /* =========================
    Design tokens (from reference: Computed/Variables)
    ========================= */
+html { outline: 4px solid lime !important; }
 :root{
   /* Typography (Fonts / Computed) */
   --font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";  /* font-family */
